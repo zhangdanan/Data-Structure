@@ -18,4 +18,9 @@ public class Student {
         arr.addLast(new Student("lier",60));
         System.out.println(arr);
     }
+
+
+
+
+    //这是个测试啊
 }
