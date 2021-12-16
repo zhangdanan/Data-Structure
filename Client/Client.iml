@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../Server/lib/javax.ejb.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Server/lib/javax.jms.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Server/lib/javax.servlet.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Server/lib/javax.resource.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Server/lib/javax.annotation.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Server/lib/javax.persistence.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Server/lib/javax.servlet.jsp.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Server/lib/javax.transaction.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Server/lib/javax.servlet.jsp.jstl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Java EE 6-Java EE 6 (2)" level="project" />
+  </component>
+</module>

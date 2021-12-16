@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Array/01-Array.iml" filepath="$PROJECT_DIR$/01-Array/01-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-StackAndQueue/02-StackAndQueue.iml" filepath="$PROJECT_DIR$/02-StackAndQueue/02-StackAndQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-LinkList/03-LinkList.iml" filepath="$PROJECT_DIR$/03-LinkList/03-LinkList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Client/Client.iml" filepath="$PROJECT_DIR$/Client/Client.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data-Structure.iml" filepath="$PROJECT_DIR$/Data-Structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fc-Server/Fc-Server.iml" filepath="$PROJECT_DIR$/Fc-Server/Fc-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetCode/leetCode.iml" filepath="$PROJECT_DIR$/leetCode/leetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>

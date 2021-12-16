@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="Fc-Server:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Fc_Server_ejb_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Fc-Server/ejb/EJB" />
+      <element id="module-output" name="Fc-Server" />
+    </root>
+  </artifact>
+</component>
